@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410062** |
+| Nama Lengkap | **M HAFID NUR FIRMANSYAH** |
 | Kelas | TI-4B |
